@@ -17,6 +17,7 @@ A robust and feature-rich REST API built with Node.js and Express.js for managin
 - 🌐 **CORS Enabled** - Cross-origin request support
 - 📝 **Request Logging** - Detailed request logging with timestamps
 - 💾 **In-Memory Storage** - No database required, perfect for development
+- ⚡ **Simple Setup** - No complex dependencies, runs with standard Node.js
 
 ## 🏗️ Project Structure
 
@@ -56,7 +57,7 @@ product-api/
    # Production mode
    npm start
    
-   # Development mode (with auto-restart)
+   # Development mode
    npm run dev
    ```
 
@@ -194,7 +195,7 @@ Response includes pagination metadata:
 - **[Node.js](https://nodejs.org/)** - JavaScript runtime environment
 - **[Express.js](https://expressjs.com/)** - Web application framework
 - **[CORS](https://www.npmjs.com/package/cors)** - Cross-origin resource sharing
-- **[Nodemon](https://nodemon.io/)** - Development auto-restart tool
+
 
 ## 📋 HTTP Status Codes
 
