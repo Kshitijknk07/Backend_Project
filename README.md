@@ -244,7 +244,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Kshitij Kumar**
+**Kshitij Narayan Kulkarni**
 - GitHub: [@Kshitijknk07](https://github.com/Kshitijknk07)
 
 ## 🙏 Acknowledgments
